@@ -1,0 +1,12 @@
+#creador, #agradecimiento {
+  color: white;
+  margin: 5px;
+}
+
+a {
+  color: darkgreen;
+}
+
+a:hover {
+  color: green;
+}
